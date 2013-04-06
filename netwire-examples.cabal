@@ -22,7 +22,7 @@ synopsis:            netwire exploration
 license:             MIT
 
 -- The file containing the license text.
-license-file:        LICENSE
+license-file:        LICENSE-MIT
 
 -- The package author(s).
 author:              Jan-Philip Loos
