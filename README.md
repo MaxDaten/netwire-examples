@@ -13,6 +13,6 @@ Some interesting links for netwire (especially examples)
 
 ## Thanks
 
-### freenode
+### chat.freenode.net/#haskell
 - merijn
 - donri
