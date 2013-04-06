@@ -44,14 +44,6 @@ systemA :: WireP a String
 systemA = timestamp &&& countFrame >>> arr (\ (t, f) -> printf "[%d] time: %s" f (show t))
 -}
 
---
--- simple game wire:
--- input -> process -> output
--- input:   last gamestate, input (hid, mouse, network...)
--- process: game-object reactions (signals) (game logic), process graphics
--- output:  gamestate, render objects
---
--- arrow loop the gamestate <- system -< gamestate
 main :: IO ()
 main = mainloop system clockSession
 

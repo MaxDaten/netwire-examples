@@ -15,13 +15,25 @@ type GameWire = WireM GameMonad
 
 
 main :: IO ()
-main = gameLoop system clockSession
+main = gameLoop gameWire gameSession
 
 gameLoop :: GameWire () () ->  Session IO -> IO ()
-gameLoop w s = do
-  (dt, s) <- sessionUpdate s
-  let (mx, w') = runReader (stepWire w dt ()) GameState
-  mx `seq` gameLoop w' s
+gameLoop game sh = do
+  (dt, sh) <- sessionUpdate sh -- find a way with stepSession
+  let (mx, w') = runReader (stepWire game dt ()) GameState
+  mx `seq` gameLoop w' sh
 
---system :: MyWire a b
-system = undefined
+
+--
+-- simple game wire concept:
+-- input -> process -> output
+-- input:   last gamestate, input (hid, mouse, network...)
+-- process: game-object reactions (signals) (game logic), process graphics
+-- output:  gamestate, render objects
+--
+-- arrow loop the gamestate <- system -< gamestate
+gameWire :: GameWire a b
+gameWire = undefined
+
+gameSession :: (MonadIO m) => Session m
+gameSession = clockSession
