@@ -52,7 +52,7 @@ executable netwire-examples
                        NetwireGameLoop
   
   -- Other library packages from which modules are imported.
-  build-depends:       base    == 4.6.*,
-                       mtl     == 2.1.*,
+  build-depends:       base         == 4.6.*,
+                       mtl          == 2.1.*,
                        transformers == 0.3.*,
-                       netwire == 4.0.*
+                       netwire      == 4.0.*
