@@ -1,0 +1,1999 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"main",
+				"mainloop"
+			],
+			[
+				"count",
+				"countFrom"
+			],
+			[
+				"c",
+				"countFrame2"
+			],
+			[
+				"time",
+				"timestamp	WireP a Time"
+			],
+			[
+				"te",
+				"twelveInc	  (Arrow f) => f p Int"
+			],
+			[
+				"twel",
+				"twelveInc"
+			],
+			[
+				"qua",
+				"qualified	Qualified"
+			],
+			[
+				"Ren",
+				"Rendering"
+			],
+			[
+				"fore",
+				"forever"
+			],
+			[
+				"V",
+				"V5	(module)"
+			],
+			[
+				"Render",
+				"RenderWorld"
+			],
+			[
+				"ya",
+				"Yage"
+			],
+			[
+				"Re",
+				"RenderWorld"
+			],
+			[
+				"U",
+				"UUIDv5"
+			],
+			[
+				"ent",
+				"entities"
+			],
+			[
+				"Mon",
+				"MonadIO"
+			],
+			[
+				"Yag",
+				"YageState	"
+			],
+			[
+				"I",
+				"IO"
+			],
+			[
+				"cre",
+				"createRenderEntity"
+			],
+			[
+				"new",
+				"newtype"
+			],
+			[
+				"RenderE",
+				"RenderEntity"
+			],
+			[
+				"RenderW",
+				"RenderWorldPtr"
+			],
+			[
+				"ad",
+				"addEntity"
+			],
+			[
+				"get",
+				"getEntityId"
+			],
+			[
+				"newFo",
+				"newForeignPtr"
+			],
+			[
+				"For",
+				"ForeignPtr"
+			],
+			[
+				"F",
+				"ForeignPtr"
+			],
+			[
+				"wor",
+				"worldId"
+			],
+			[
+				"assertE",
+				"assertEqual_"
+			],
+			[
+				"assert",
+				"assertBool_"
+			],
+			[
+				"from",
+				"fromIntegral"
+			],
+			[
+				"RenderEnt",
+				"RenderEntity"
+			],
+			[
+				"yage",
+				"yage_RenderWorld_removeEntity"
+			],
+			[
+				"Rende",
+				"RenderEntityPtr"
+			],
+			[
+				"RenW",
+				"RenderWorldPtr"
+			],
+			[
+				"yage_R",
+				"yage_RenderWorld_addEntity"
+			],
+			[
+				"other",
+				"other-modules"
+			],
+			[
+				"include",
+				"include-dirs"
+			],
+			[
+				"test",
+				"test_entityID"
+			],
+			[
+				"bui",
+				"build-depends"
+			],
+			[
+				"isA",
+				"isAdvancedUser"
+			],
+			[
+				"z",
+				"z:a	z-index:auto"
+			],
+			[
+				"pa",
+				"pos:a	position:absolute"
+			],
+			[
+				"wh",
+				"whs:nw	white-space:nowrap"
+			],
+			[
+				"td",
+				"td:n	text-decoration:none"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"text",
+				"text-bottom"
+			],
+			[
+				"lift",
+				"lift-right"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"title",
+				"title-bar"
+			],
+			[
+				"ti",
+				"title-bar-bg-color"
+			],
+			[
+				"rsyn",
+				"rsync"
+			],
+			[
+				"rsync",
+				"rsyncOptions"
+			],
+			[
+				"xwiki_",
+				"xwiki_fonts"
+			],
+			[
+				"php",
+				"phpbb_templates"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"aut",
+				"author-name"
+			],
+			[
+				"user",
+				"user-navbar"
+			],
+			[
+				"di",
+				"divider-vertical"
+			],
+			[
+				"sub",
+				"subnavbarHeight"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"dro",
+				"dropdown-menu"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"content",
+				"content-menu-inner"
+			],
+			[
+				"make",
+				"makeColumn"
+			],
+			[
+				"doC",
+				"document-background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"xwiki",
+				"xwikicontent-wrapper"
+			],
+			[
+				"author-",
+				"author-avatar"
+			],
+			[
+				"img",
+				"img-polaroid"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"xwi",
+				"xwiki-livetable-pagesize-content"
+			],
+			[
+				"xwiki-li",
+				"xwiki-livetable-pagination"
+			],
+			[
+				"document",
+				"document-container"
+			],
+			[
+				"link",
+				"linktext"
+			],
+			[
+				"doc",
+				"document-background-color"
+			],
+			[
+				"con",
+				"content-area-background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"co",
+				"content-area-background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"bread",
+				"breadcrub"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"my",
+				"myg_cBlue"
+			],
+			[
+				"myg",
+				"myg_cBlue"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"out",
+				"outputstyle"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"gray",
+				"grayDark"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"m",
+				"m	margin"
+			],
+			[
+				"M",
+				"MAIN_SOURCE"
+			],
+			[
+				"pdf",
+				"pdflatex"
+			],
+			[
+				"Out",
+				"OUTDIR"
+			],
+			[
+				"SO",
+				"MAIN_SOURCE"
+			],
+			[
+				"PDF",
+				"PDFLATEX"
+			],
+			[
+				"BO",
+				"BOOTSTRAP_JS_SRC"
+			],
+			[
+				"A",
+				"ASSETS_IMG"
+			],
+			[
+				"Bo",
+				"BOOTSTRAP_LIB"
+			],
+			[
+				"B",
+				"BOOTSTRAP_LIB"
+			],
+			[
+				"Boot",
+				"BOOTSTRAP_LIB"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"BOOTSTRAP_",
+				"BOOTSTRAP_RESPONSIVE_CSS_MIN"
+			],
+			[
+				"background-c",
+				"background-color	zen:css_properties"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ArrowPlayground.hs",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NetwirePlayground.hs",
+			"settings":
+			{
+				"buffer_size": 1512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NetwireGameLoop.hs",
+			"settings":
+			{
+				"buffer_size": 1142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "netwire-examples\n================\n\nNOT a project: some haskell netwire examples, personal playgrounds and concepts\n\n## Links\n\nSome interesting links for netwire (especially examples)\n\n- https://danbst.wordpress.com/2013/01/23/novice-netwire-user/\n- http://jshaskell.blogspot.se/2012/11/breakout-improved-and-with-netwire.html\n- http://hpaste.org/83098\n\n## Thanks\n\nchat.freenode.net/#haskell\n\n- merijn\n- donri",
+			"file": "README.md",
+			"file_size": 426,
+			"file_write_time": 130097666060000000,
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "netwire-examples.cabal",
+			"settings":
+			{
+				"buffer_size": 1878,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Haskell/Haskell.sublime-build",
+	"command_palette":
+	{
+		"height": 185.0,
+		"selected_items":
+		[
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"check",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"SublimeHaskell C",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"Check",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"Hask Lin",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"Hask L",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"ch",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"cabal",
+				"SublimeHaskell: Switch Cabal/Cabal-Dev"
+			],
+			[
+				"type",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"Type",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"SumL",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"subl L",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"subl",
+				"SublimeHaskell: Run"
+			],
+			[
+				"subh con",
+				"SublimeHaskell: Configure"
+			],
+			[
+				"cabal-d",
+				"SublimeHaskell: Switch Cabal/Cabal-Dev"
+			],
+			[
+				"chL",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"hassy",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"st",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"HSy",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"Styl",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"sly",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"Sty",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"sty",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"che",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"Ch",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"HT",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"ty",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"HasC",
+				"SublimeHaskell: Check"
+			],
+			[
+				"Hask C",
+				"SublimeHaskell: Check"
+			],
+			[
+				"Sublim",
+				"SublimeHaskell: Check"
+			],
+			[
+				"SublimeHask",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"SubH",
+				"SublimeHaskell: Clean"
+			],
+			[
+				"PaI",
+				"Package Control: Install Package"
+			],
+			[
+				"PackR",
+				"Package Control: Remove Package"
+			],
+			[
+				"PackI",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"SublimeH",
+				"SublimeHaskell: Switch Cabal/Cabal-Dev"
+			],
+			[
+				"Hask",
+				"SublimeHaskell: Configure"
+			],
+			[
+				"haske",
+				"SublimeHaskell: Configure"
+			],
+			[
+				"Sub",
+				"SublimeHaskell: Rebuild"
+			],
+			[
+				"SuH",
+				"SublimeHaskell: Configure"
+			],
+			[
+				"Pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Haskell",
+				"SublimeHaskell: Stylish"
+			],
+			[
+				"Haske",
+				"StylishHaskell: Reformat haskell"
+			],
+			[
+				"sub",
+				"SublimeHaskell: Clean"
+			],
+			[
+				"Git: Ad",
+				"Git: Add..."
+			],
+			[
+				"Git",
+				"Git: Commit"
+			],
+			[
+				"insert",
+				"SublimeHaskell: Insert type"
+			],
+			[
+				"hasB",
+				"SublimeHaskell: Switch Cabal/Cabal-Dev"
+			],
+			[
+				"MDP",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"M",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"MarD",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"MaD",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"PC",
+				"Package Control: Enable Package"
+			],
+			[
+				"Shee",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"Previe",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"PRV",
+				"Markdown Preview: preview in Sublime Text"
+			],
+			[
+				"Prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Syn MD",
+				"Set Syntax: Markdown"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"SetS",
+				"Set Syntax: HTML"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"PackC",
+				"Package Control: Add Repository"
+			],
+			[
+				"PaC",
+				"Package Control: Remove Package"
+			],
+			[
+				"Zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"set SynV",
+				"Set Syntax: Velocity"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"git: sta",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"PCE",
+				"Package Control: Enable Package"
+			],
+			[
+				"PCR",
+				"Package Control: Remove Package"
+			],
+			[
+				"Romve",
+				"Package Control: Remove Package"
+			],
+			[
+				"Load",
+				"LiveReload: Enable/disable plugins"
+			],
+			[
+				"PcR",
+				"Package Control: Remove Package"
+			],
+			[
+				"MD",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"MDB",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"PCU",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"PI",
+				"Package Control: Install Package"
+			],
+			[
+				"Upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"MdB",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"MarkDP",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"HAML",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"BC",
+				"Build: Clean"
+			],
+			[
+				"BR",
+				"Build: Rebuild"
+			],
+			[
+				"BV",
+				"Build: View"
+			],
+			[
+				"B:R",
+				"Build: Rebuild"
+			],
+			[
+				"view",
+				"Build: View"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"g",
+				"Git: Add..."
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 348.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/workspace/hs/netwire-examples/netwire-examples.sublime-project",
+		"/I/workspace/hs/netwire-examples/LICENSE-MIT",
+		"/I/workspace/hs/netwire-examples/.gitignore",
+		"/I/workspace/hs/netwire-examples/README.md",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/Renderable.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/RenderData.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/RenderEntity.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/RenderWorld.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/Util.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/Raw/RenderEntity/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/Raw/RenderWorld/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/Raw/RenderEntity.chs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/Raw/RenderWorld.chs",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/SublimeHaskell/SublimeHaskell.sublime-settings",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/User/SublimeHaskell.sublime-settings",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/Raw/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/TestMain.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/yage-hs.cabal",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/RenderWorld/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/FFI.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/RenderEntity.chs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/RenderEntity/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/RenderWorld.chs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/src/Graphics/Yage/FFITypes.chi",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/yage-hs.sublime-project",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/dist/build/Graphics/Yage/RenderEntity.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Test/Yage.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Tests.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/Graphics/Yage/RenderEntity.hs",
+		"/D/workspaces/coding/cpp/yet-another-graphics-engine/yage-hs/hs/test/main-test.hs",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/endpage.vm",
+		"/I/workspace/mygnia-xwiki-skin/Gruntfile.js",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/topaccountmenu.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/topbar.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/toplinks.vm",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_footer.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/footer.vm",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/mygnia.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/scripts/vendor/jquery.nivo.slider.js",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_start_dashboard.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_nivo-slider.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_shared.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_titlebar.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/documenttitle.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/htmlhead.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/stylesheets.vm",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_myg_variables.scss",
+		"/I/workspace/mygnia-xwiki-skin/temp/styles/main.css",
+		"/I/workspace/mygnia-xwiki-skin/app/mygnia-xwiki-skin.sublime-project",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_xwiki_adapter.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_navbar.scss",
+		"/I/workspace/mygnia-xwiki-skin/README.md",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/startpage.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/contentview.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/docextra.vm",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_myg_mixins.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_attachments.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_compass_twitter_bootstrap_awesome.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/compass_twitter_bootstrap/_type.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_comments.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/login.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/htmlfooter.vm",
+		"/D/DL/SC/climatology.data",
+		"/D/DL/SC/Untitled0.ipynb",
+		"/D/DL/SC/inter.py",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/sidebar.vm",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_font-awesome-extendable.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/documenttitle.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/main.scss",
+		"/I/workspace/mygnia-xwiki-skin/lib/mygnia-styles-lib/app/styles/_edit.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/phpbb/stylesheet.css",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/phpbb/colours.css",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/phpbb/tmp.html",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/phpbb/large.css",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/xwiki/htmlhead.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/phpbb/template.cfg",
+		"/I/workspace/mygnia-xwiki-skin/app/images/phpbb/imageset.cfg",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/phpbb/overall_navbar.html",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/phpbb/overall_footer.html",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/phpbb/overall_header.html",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/phpbb/overall_endpage.html",
+		"/I/workspace/mygnia-xwiki-skin/app/images/phpbb/en/imageset.cfg",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/compass_twitter_bootstrap/_grid.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/compass_twitter_bootstrap/_variables.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_navbar.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_font-awesome-extendable.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_titlebar.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/templates/xwiki/search.vm",
+		"/I/workspace/mygnia-xwiki-skin/tasks/xwikify.js",
+		"/I/workspace/mygnia-xwiki-skin/app/topbar.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/topaccountmenu.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/search.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_myg_variables.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/compass_twitter_bootstrap/_mixins.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/compass_twitter_bootstrap/_buttons.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/compass_twitter_bootstrap/_navbar.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_xwiki_adapter.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/compass_twitter_bootstrap/_font-awesome.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_myg_mixins.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/toplinks.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_shared.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/contentmenu.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/contentview.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/view.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/sidebar.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/startpage.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/docextra.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/button-dropdown-macros.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_edit.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/endpage.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/code.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_comments.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_attachments.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_blog.scss",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_sidebar.scss",
+		"/I/workspace/mygnia-xwiki-skin/.editorconfig",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/I/workspace/mygnia-xwiki-skin/app/styles/_title-bar.scss",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime/Emmet.sublime-settings",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/I/workspace/mygnia-xwiki-skin/app/index.html",
+		"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/I/workspace/mygnia-xwiki-skin/app/pdfoptions.vm",
+		"/I/workspace/mygnia-xwiki-skin/app/admin.vm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"I:\\workspace\\mygnia-xwiki-skin\\app\\templates",
+			"<open files>",
+			"I:\\workspace\\mygnia-xwiki-skin\\lib",
+			"I:\\workspace\\mygnia-xwiki-skin\\",
+			"I:\\workspace\\mygnia-xwiki-skin\\app\\styles",
+			"*.scss",
+			"*.tex",
+			"*.*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n--",
+			"countframe",
+			"Rendering",
+			" =",
+			"main",
+			"amd-app",
+			"http",
+			"dropPermissions",
+			"fixed",
+			"%;\n",
+			"#xwikimaincontainer",
+			"@extend .btn",
+			"%drop-shadow",
+			"@mixin lifted-drop",
+			"lifted",
+			", 1%",
+			"#{darken",
+			"{darken",
+			"stringg",
+			"progid:DXImageTransform.Microsoft.Gradient",
+			".btn",
+			"file:/",
+			"${UNICORN_HOME}",
+			"http://validator.w3.org/unicorn",
+			"hex.png",
+			"hex",
+			".icon",
+			"border",
+			"\"sidebar-box\"",
+			"\"shared\"",
+			"\"sidebar-box\"",
+			"]::b",
+			"]:",
+			":before",
+			"#sidebar-container",
+			"[class*=\"side",
+			"  right:10px;\n  left:auto;\n  -webkit-transform:rotate(3deg);\n     -moz-transform:rotate(3deg);\n      -ms-transform:rotate(3deg);\n       -o-transform:rotate(3deg);\n          transform:rotate(3deg);",
+			"shadow",
+			"content-area",
+			";\n",
+			"\"",
+			"livereload",
+			"phpbb",
+			"--chmod=u=rwx,go=rw",
+			"path",
+			"src",
+			"grunt",
+			"');\n",
+			"velocity",
+			"registerTask",
+			":before",
+			"\\:before\\ *\\ \\}",
+			"\\:before(\\ )*\\ \\}",
+			"\\:before(\\ )*;\\ \\}",
+			"{ .",
+			":before",
+			".icon-pencil",
+			":before",
+			"D",
+			"                  \n",
+			"xwikicontent",
+			"content-container-bg-color",
+			"mainContentArea",
+			"sur",
+			"document-tit",
+			"document-title",
+			"sep",
+			"'",
+			"jq",
+			"')\"",
+			"border",
+			"sprites",
+			"navbar-inn",
+			"include",
+			"shadow",
+			"text-sh",
+			"shadow",
+			"mainContentBackgroundColor",
+			"mainContentBorderColor",
+			"#docu",
+			"  <",
+			";\n",
+			"main",
+			"*\n",
+			"link(href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:700italic,700', rel='stylesheet', type='text/css')",
+			"\n",
+			", sans-serif;",
+			"font-family: ",
+			"@import \"compass_twitter_bootstrap_responsive\";",
+			"\";\n",
+			"text-sh",
+			"text",
+			"350px",
+			"disp",
+			"Box-shad",
+			"box-sha",
+			"index",
+			"rgba",
+			"opacity",
+			"alpha",
+			"{\n",
+			"main",
+			"span.main-name",
+			"Arizonia",
+			"fonts",
+			"Arizonia",
+			"href",
+			"')\n",
+			"image",
+			"\"",
+			">",
+			"}",
+			"{:",
+			"%",
+			"GradientBar",
+			"button",
+			"main",
+			"$v",
+			"$h",
+			"shado",
+			"@mixin box-shadow",
+			"shadow",
+			"stage-b",
+			"@",
+			"images",
+			"Support Vec",
+			"Support Vek",
+			"Support"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"countFrame",
+			"",
+			"#{ie-hex-str",
+			"ie-hex-str",
+			"file://",
+			"home/jloos/glassfishv3/glassfish/domains/domain1/applications/unicorn",
+			"/home/jloos/glassfishv3/glassfish/domains/domain1/applications/unicorn",
+			"file://${UNICORN_HOME}",
+			"${UNICORN_HOME}/WEB-INF/resources",
+			"%icon",
+			"'",
+			"<%= rsync.options.rsync_options >",
+			"'<%= rsync.options.rsync_options >'",
+			"remoteBase",
+			"files",
+			"-ex",
+			"",
+			":before; }",
+			"; }",
+			"{ @extend .",
+			"",
+			"main-bg-color",
+			"\"",
+			"main-content-background-color",
+			"main-content-border-color",
+			", ",
+			"",
+			"\n",
+			"",
+			"'",
+			"",
+			"=",
+			")",
+			"(",
+			"",
+			"$v-shadow",
+			"$h-shadow",
+			"$h-shadow\n$h-shadow\n",
+			"$h-shadow\n\n",
+			"app",
+			"fhw",
+			"protokoll02",
+			"protokoll01",
+			"protokoll01\nprotokoll01\n",
+			"protokollE",
+			"{c|}",
+			"MAIN_SOURCE",
+			"fluid-example.html#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ArrowPlayground.hs",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "NetwirePlayground.hs",
+					"settings":
+					{
+						"buffer_size": 1512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								408
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "NetwireGameLoop.hs",
+					"settings":
+					{
+						"buffer_size": 1142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "netwire-examples.cabal",
+					"settings":
+					{
+						"buffer_size": 1878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1869,
+								1869
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SublimeHaskell/Cabal.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 261.0
+	},
+	"output.git":
+	{
+		"height": 240.0
+	},
+	"output.haskell_error_checker":
+	{
+		"height": 358.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 108.0
+	},
+	"output.sublime_haskell_hdevtools_type":
+	{
+		"height": 108.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hero-uni",
+				"app/styles/compass_twitter_bootstrap/_hero-unit.scss"
+			],
+			[
+				"ein",
+				"src/kap_einleitung.tex"
+			],
+			[
+				"console",
+				"/C/Users/Jan-Philip/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
