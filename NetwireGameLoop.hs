@@ -1,7 +1,9 @@
 {-# LANGUAGE Arrows #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE GeneralizedNewtypeDeriving #-}
+{-# LANGUAGE TypeSynonymInstances #-}
+{-# LANGUAGE FlexibleInstances #-}
 module NetwireGameLoop where
--- http://hpaste.org/83098
 
 import Prelude hiding (id)
 import Control.Monad.Reader
@@ -10,18 +12,28 @@ import Control.Wire
 data GameState = GameState
 
 -- TODO: maybe a more complex monad
-type GameMonad = Reader GameState
-type GameWire = WireM GameMonad
+{-
+newtype GameMonad a = GameMonad (ReaderT GameState IO a)
+  deriving (Functor, Monad, MonadIO)
+-}
 
+type GameStateReader = Reader GameState
+type GameWire = WireM GameStateReader
+  --deriving (Functor)
+
+instance MonadIO GameStateReader where
+  liftIO = undefined
 
 main :: IO ()
 main = gameLoop gameWire gameSession
+  where gameSession = clockSession
 
-gameLoop :: GameWire () () ->  Session IO -> IO ()
-gameLoop game sh = do
-  (dt, sh) <- sessionUpdate sh -- find a way with stepSession
-  let (mx, w') = runReader (stepWire game dt ()) GameState
-  mx `seq` gameLoop w' sh
+gameLoop :: (MonadIO m) => GameWire () () ->  Session m -> IO ()
+gameLoop game s = do
+  --(dt, s') <- sessionUpdate s -- TODO: find a way with stepSession
+  let   gs       = receiveGameState
+        (mx, w', s') = runReader (stepSession game s ()) gs
+  mx `seq` gameLoop w' s'
 
 
 --
@@ -32,8 +44,13 @@ gameLoop game sh = do
 -- output:  gamestate, render objects
 --
 -- arrow loop the gamestate <- system -< gamestate
-gameWire :: GameWire a b
-gameWire = undefined
+gameWire :: GameWire a ()
+gameWire = proc _ -> do
+  frame <- countFrame -< ()
+  returnA -< ()
 
-gameSession :: (MonadIO m) => Session m
-gameSession = clockSession
+receiveGameState :: GameState
+receiveGameState = GameState
+
+countFrame :: GameWire a Int
+countFrame = countFrom 0 <<< 1
