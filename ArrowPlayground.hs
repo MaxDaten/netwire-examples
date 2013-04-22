@@ -17,10 +17,9 @@ twelveInc = incA <<< twelve
 tracingArr :: Arrow f => f a Int
 tracingArr = proc _ -> do
 	x <- twelveInc -< ()
-	_ <- trace "xxx" id -< ()
-	returnA -< x
+	returnA -< traceShow x x
 
 main :: IO ()
 main = do
-  x <- runKleisli tracingArr id
-  print x
+	m <- runKleisli tracingArr id
+	m `seq` return ()

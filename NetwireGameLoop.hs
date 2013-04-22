@@ -36,7 +36,7 @@ gameLoop :: (MonadIO m) => GameWire () Int ->  Session m -> m ()
 gameLoop game s = do
   (dt, s') <- sessionUpdate s
   let (mx, w') = traceShow dt $ runGameStateReader (stepWire game dt ()) receiveGameState
-  traceShow mx mx `seq` gameLoop w' s'
+  mx `seq` gameLoop w' s'
 
 
 --
@@ -50,8 +50,7 @@ gameLoop game s = do
 gameWire :: GameWire a Int
 gameWire = proc _ -> do
   frame <- countFrame -< ()
-  x <- arr id -< traceShow frame
-  returnA -< frame
+  returnA -< traceShow frame frame
 
 receiveGameState :: GameState
 receiveGameState = GameState
