@@ -3,11 +3,13 @@
 {-# LANGUAGE GeneralizedNewtypeDeriving #-}
 {-# LANGUAGE TypeSynonymInstances #-}
 {-# LANGUAGE FlexibleInstances #-}
+{-# LANGUAGE DeriveFunctor #-}
 module NetwireGameLoop where
 
 import Prelude hiding (id)
 import Control.Monad.Reader
 import Control.Wire
+import Debug.Trace
 
 data GameState = GameState
 
@@ -17,23 +19,24 @@ newtype GameMonad a = GameMonad (ReaderT GameState IO a)
   deriving (Functor, Monad, MonadIO)
 -}
 
-type GameStateReader = Reader GameState
-type GameWire = WireM GameStateReader
-  --deriving (Functor)
 
-instance MonadIO GameStateReader where
-  liftIO = undefined
+newtype GameStateReader a = GameStateReader (Reader GameState a)
+  deriving (Functor, Monad, MonadReader GameState)
+type GameWire = WireM GameStateReader
+
+runGameStateReader :: GameStateReader a -> GameState -> a
+runGameStateReader (GameStateReader m) gs = runReader m gs
+
 
 main :: IO ()
-main = gameLoop gameWire gameSession
+main = trace "starting" $ gameLoop gameWire gameSession
   where gameSession = clockSession
 
-gameLoop :: (MonadIO m) => GameWire () () ->  Session m -> IO ()
+gameLoop :: (MonadIO m) => GameWire () Int ->  Session m -> m ()
 gameLoop game s = do
-  --(dt, s') <- sessionUpdate s -- TODO: find a way with stepSession
-  let   gs       = receiveGameState
-        (mx, w', s') = runReader (stepSession game s ()) gs
-  mx `seq` gameLoop w' s'
+  (dt, s') <- sessionUpdate s
+  let (mx, w') = traceShow dt $ runGameStateReader (stepWire game dt ()) receiveGameState
+  traceShow mx mx `seq` gameLoop w' s'
 
 
 --
@@ -44,10 +47,11 @@ gameLoop game s = do
 -- output:  gamestate, render objects
 --
 -- arrow loop the gamestate <- system -< gamestate
-gameWire :: GameWire a ()
+gameWire :: GameWire a Int
 gameWire = proc _ -> do
   frame <- countFrame -< ()
-  returnA -< ()
+  x <- arr id -< traceShow frame
+  returnA -< frame
 
 receiveGameState :: GameState
 receiveGameState = GameState
