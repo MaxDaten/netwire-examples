@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"Gam",
+				"GameStateReader	"
+			],
+			[
+				"Ga",
+				"GameStateReader	"
+			],
+			[
+				"rev",
+				"receiveGameState"
+			],
+			[
 				"main",
 				"mainloop"
 			],
@@ -503,7 +515,7 @@
 			"file": "NetwireGameLoop.hs",
 			"settings":
 			{
-				"buffer_size": 1142,
+				"buffer_size": 1478,
 				"line_ending": "Unix"
 			}
 		},
@@ -525,14 +537,42 @@
 				"buffer_size": 1878,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "NetwireSdlOpenGL.hs",
+			"settings":
+			{
+				"buffer_size": 3408,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "Packages/Haskell/Haskell.sublime-build",
 	"command_palette":
 	{
-		"height": 185.0,
+		"height": 260.0,
 		"selected_items":
 		[
+			[
+				"chL",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"che",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"Hask",
+				"SublimeHaskell: Build"
+			],
+			[
+				"Haske",
+				"SublimeHaskell: Clean"
+			],
+			[
+				"Haskel",
+				"SublimeHaskell: Clean"
+			],
 			[
 				"markd",
 				"Markdown Preview: preview in Browser"
@@ -594,10 +634,6 @@
 				"SublimeHaskell: Switch Cabal/Cabal-Dev"
 			],
 			[
-				"chL",
-				"SublimeHaskell: Check & Lint"
-			],
-			[
 				"hassy",
 				"SublimeHaskell: Stylish"
 			],
@@ -624,10 +660,6 @@
 			[
 				"sty",
 				"SublimeHaskell: Stylish"
-			],
-			[
-				"che",
-				"SublimeHaskell: Check & Lint"
 			],
 			[
 				"Ch",
@@ -682,10 +714,6 @@
 				"SublimeHaskell: Switch Cabal/Cabal-Dev"
 			],
 			[
-				"Hask",
-				"SublimeHaskell: Configure"
-			],
-			[
 				"haske",
 				"SublimeHaskell: Configure"
 			],
@@ -704,10 +732,6 @@
 			[
 				"Haskell",
 				"SublimeHaskell: Stylish"
-			],
-			[
-				"Haske",
-				"StylishHaskell: Reformat haskell"
 			],
 			[
 				"sub",
@@ -1326,7 +1350,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1564,15 +1588,15 @@
 					"file": "NetwireGameLoop.hs",
 					"settings":
 					{
-						"buffer_size": 1142,
+						"buffer_size": 1478,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								350,
-								350
+								723,
+								723
 							]
 						],
 						"settings":
@@ -1665,10 +1689,12 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 288.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1894,6 +1920,122 @@
 							},
 							"sublimelinter_wrap_find": true,
 							"syntax": "Packages/SublimeHaskell/Cabal.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "NetwireSdlOpenGL.hs",
+					"settings":
+					{
+						"buffer_size": 3408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3387,
+								3382
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
