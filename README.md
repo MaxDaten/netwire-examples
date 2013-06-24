@@ -17,3 +17,7 @@ chat.freenode.net/#haskell
 
 - merijn
 - donri
+
+github
+
+- danbst
