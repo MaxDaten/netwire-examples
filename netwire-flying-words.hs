@@ -1,6 +1,7 @@
 {-# LANGUAGE Arrows #-}
-
+-- https://gist.github.com/danbst/4676502
 import Control.Wire
+import Control.Exception
 import Prelude hiding ((.), id)
 import System.Console.ANSI
 import Data.Maybe
@@ -29,7 +30,7 @@ control whenInhibited whenProduced wire = loop wire (deltaClockSession 10000)
          case mx of
            Left ex -> whenInhibited ex
            Right x -> whenProduced x
-         loop w session `catch` (\_ ->  ansiFinishUI)
+         loop w session `catch` ((\_ ->  ansiFinishUI) :: SomeException -> IO ())
 
 ansiFinishUI = do
     scrollPageUp 1
